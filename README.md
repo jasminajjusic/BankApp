@@ -81,4 +81,8 @@ The application simulates a simple banking system with four main features:
 
 ---
 
-## Figma (Screenshots)
+## 📸 Screenshots
+
+Here is an example of the app:
+
+![App Screenshot](assets/images/screenshot.png)
