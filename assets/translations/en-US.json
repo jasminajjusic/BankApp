@@ -1,0 +1,29 @@
+{
+  "loan_application": {
+    "title": "Loan Application",
+    "terms_title": "Terms and Conditions",
+    "terms_conditions_text": "Please read and accept the terms and conditions before applying for a loan. It is important to understand that loans come with obligations that must be fulfilled. You must ensure that you have the capacity to repay the loan within the agreed timeframe. Failure to comply with these terms may result in penalties or additional fees. We recommend consulting with a financial advisor if you have any questions regarding your financial situation. Failure to comply with these terms may result in penalties or additional fees. We recommend consulting with a financial advisor if you have any questions regarding your financial situation",
+    "accept_terms": "I accept the terms and conditions",
+    "about_you_title": "About You",
+    "invalid_input_title": "Nevalidan unos",
+    "invalid_input_message": "Molimo unesite ispravne brojeve u sva polja.",
+    "monthly_salary_label": "Monthly Salary",
+    "monthly_expenses_label": "Monthly Expenses",
+    "loan_information_title": "Loan Information",
+    "loan_amount_label": "Loan Amount",
+    "loan_term_label": "Loan Term (months)",
+    "apply_button": "Apply for Loan",
+    "approved_title": "Loan Approved",
+    "approved_message": "Your loan has been approved!",
+    "declined_title": "Loan Declined",
+    "declined_message": "Your loan application has been declined: ",
+    "already_applied_title": "Application Already Submitted",
+    "already_applied_message": "Oops, you have already submitted an application. Please wait for a notification from us."
+  },
+  "loan_application.declined_title": "Loan Application Declined",
+  "random_case_decline": "Your loan application has been declined due to random conditions.",
+  "no_sufficient_balance": "You do not have sufficient balance.",
+  "insufficient_salary": "Your monthly salary is insufficient.",
+  "expenses_too_high": "Your monthly expenses are too high.",
+  "credit_cost_too_high": "The credit cost is too high."
+}

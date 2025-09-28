@@ -1,0 +1,29 @@
+{
+  "loan_application": {
+    "title": "Zahtjev za kredit",
+    "terms_title": "Uslovi i odredbe",
+    "terms_conditions_text": "Molimo vas da pročitate i prihvatite uslove i odredbe prije nego što se prijavite za kredit. Važno je razumjeti da krediti dolaze s obavezama koje se moraju ispuniti. Morate osigurati da imate mogućnost vraćanja kredita unutar dogovorenog roka. Nepoštivanje ovih uslova može rezultirati kaznama ili dodatnim troškovima. Preporučujemo da se posavjetujete s finansijskim savjetnikom ako imate bilo kakva pitanja u vezi s vašom finansijskom situacijom.",
+    "accept_terms": "Prihvaćam uslove i odredbe",
+    "about_you_title": "O vama",
+    "invalid_input_title": "Nevalidan unos",
+    "invalid_input_message": "Molimo unesite ispravne brojeve u sva polja.",
+    "monthly_salary_label": "Mjesečna plata",
+    "monthly_expenses_label": "Mjesečni troškovi",
+    "loan_information_title": "Informacije o kreditu",
+    "loan_amount_label": "Iznos kredita",
+    "loan_term_label": "Rok otplate (mjeseci)",
+    "apply_button": "Prijavi se za kredit",
+    "approved_title": "Kredit odobren",
+    "approved_message": "Vaš kredit je odobren!",
+    "declined_title": "Kredit odbijen",
+    "declined_message": "Vaša prijava za kredit je odbijena: ",
+    "already_applied_title": "Prijava već podnesena",
+    "already_applied_message": "Oups, već ste podnijeli prijavu. Molimo sačekajte obavijest od nas."
+  },
+  "loan_application.declined_title": "Prijava za kredit odbijena",
+  "random_case_decline": "Vaša prijava za kredit je odbijena zbog slučajnih uslova.",
+  "no_sufficient_balance": "Nemate dovoljnu ravnotežu.",
+  "insufficient_salary": "Vaša mjesečna plata je nedovoljna.",
+  "expenses_too_high": "Vaši mjesečni troškovi su previsoki.",
+  "credit_cost_too_high": "Trošak kredita je previsok."
+}

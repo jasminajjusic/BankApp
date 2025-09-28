@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "moneyapp-d715d",
+          "appId": "1:838179323911:android:c12405be3cd0f8f5f46aa2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "moneyapp-d715d",
+          "configurations": {
+            "android": "1:700824731932:android:e0e68be6ce64f1fab8fad9",
+            "ios": "1:700824731932:ios:e0e68be6ce64f1fab8fad9",
+            "macos": "1:700824731932:ios:e0e68be6ce64f1fab8fad9",
+            "web": "1:700824731932:web:e0e68be6ce64f1fab8fad9",
+            "windows": "1:700824731932:web:e0e68be6ce64f1fab8fad9"
+          }
+        }
+      }
+    }
+  }
+}
